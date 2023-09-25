@@ -1,2 +1,4 @@
 # OpenHarrier
-CAD files and other assets to support simpit builds who are building the AV-8A or AV-8B Harrier cockpits
+This repo has been moved to:
+https://github.com/OpenHarrier
+https://github.com/OpenHarrier/AV8B-NA
